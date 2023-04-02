@@ -1,5 +1,5 @@
 {
-  "baseUrl": "graconlatam.ussl.co.il",
+  "baseUrl": "spider.ussl.co.il/graconlatam",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
